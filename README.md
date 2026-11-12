@@ -7,7 +7,7 @@ This project represents a complete, industry standard, end-to-end data analytics
 This project simulates a complete corporate-grade data analytics workflow to understand retail customer shopping habits. It covers data preparation, exploratory data analysis (EDA), database querying for key business metrics, and an interactive Power BI dashboard for visualization.
 
 <p align="center">
-  <img src="./"C:/Users/Asus/OneDrive/Pictures/Screenshots/Screenshot 2026-11-12 184727.png".png" alt="Project Workflow" width="800">
+  <img src="./Screenshot 2026-11-12 184727.png" alt="Project Workflow" width="800">
 </p>
 
 # 📊 Dataset Summary
