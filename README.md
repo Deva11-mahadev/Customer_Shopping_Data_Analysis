@@ -2,6 +2,7 @@
 An end-to-end data analytics project uncovering customer shopping trends, purchasing behavior patterns, and sales insights through Python, SQL, and Power BI.
 
 
+
 # 📌 Project Overview
 This project simulates a complete corporate-grade data analytics workflow to understand retail customer shopping habits. It covers data preparation, exploratory data analysis (EDA), database querying for key business metrics, and an interactive Power BI dashboard for visualization.
 
