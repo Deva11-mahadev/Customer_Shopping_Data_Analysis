@@ -6,7 +6,11 @@ This project represents a complete, industry standard, end-to-end data analytics
 # 📌 Project Overview
 This project simulates a complete corporate-grade data analytics workflow to understand retail customer shopping habits. It covers data preparation, exploratory data analysis (EDA), database querying for key business metrics, and an interactive Power BI dashboard for visualization.
 
-## 📊 Dataset Summary
+<p align="center">
+  <img src="./"C:/Users/Asus/OneDrive/Pictures/Screenshots/Screenshot 2026-11-12 184727.png".png" alt="Project Workflow" width="800">
+</p>
+
+# 📊 Dataset Summary
 * **Total Rows / Records:** 3,900 transactions
 * **Total Columns:** 20 attributes (including Customer ID, Age, Gender, Item Purchased, Category, Purchase Amount, Review Rating, Subscription Status, Shipping Type, and Payment Method)
 * **Statistical Highlights:**
