@@ -17,3 +17,34 @@ This project simulates a complete corporate-grade data analytics workflow to und
   * **Average Purchase Amount:** $59.76 (ranging from $20 to $100)
   * **Customer Age Range:** 18 to 70 years (Mean: ~44 years)
   * **Average Review Rating:** 3.75 out of 5.0
+
+## 🛠️ How to Use This Project
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Deva11-mahadev/Customer_Shopping_Data_Analysis.git
+   cd Customer_Shopping_Data_Analysis
+
+2. **Open and run the Python Notebook**
+    * Open Customer_Shopping_Analysis.ipynb in Jupyter Notebook.
+    * This file covers:
+      * Data Import & Inspection (info(), describe())
+      * Data Cleaning & Handling Missing Values
+      * Feature Engineering (age_group, etc.)
+
+3. **Load Data into SQL Database**
+    * Set up your database in MySQL or PostgreSQL.
+    * Run your Python pipeline or scripts to load the cleaned dataset (customer_shopping.csv) into your SQL
+    * database.Open customer shopping.sql to execute queries and extract business insights (e.g., revenue by gender, top-rated     products, customer segmentation).
+
+4. **Explore the Power BI Dashboard**
+    * Open the Customer Shopping Dashboards.pbix file using Power BI Desktop.
+    * Connect your SQL database to explore the interactive visual metrics and KPIs.
+
+5. **Review Report & Presentation**
+   * Refer to the Customer Shopping Analysis Report.pdf for a detailed summary of findings and strategic business recommendations.
+   * Build presentation deck using Gamma AI.
+
+## 📜 License
+
+This project is licensed under the **MIT License** — feel free to fork, star, and use it for your learning or portfolio purposes.
